@@ -16,6 +16,11 @@ body{
 	margin: 55px 20px;
 }
 
+#main{
+	background-color:#DDDDFF;
+	padding:10px 20px;
+}
+
 h1,h2,h3,h4,h5,h6 {
 	text-transform: capitalize;
 	font-weight: bold;
@@ -60,30 +65,66 @@ p {
 	top: 0px;
 	z-index: 99;
 	opacity: 1;
-	background:blue;
+	background:#0767c8;
 	color:white;
 }
 
 #header h1{
 	text-align:left;
+	margin-left:20px;
+	font-size:1.5em;
 }
 
 #header h1 a{
-	font-size:2em;
+	font-size:1.5em;
 	color:white;
 }
 
+#header h1 a:link,
 #header h1 a:active,
 #header h1 a:hover,
 #header h1 a:focus {
 	color:white;
 	text-decoration: none;
+	background-color:transparent;
 }
 
 h1,h2{
 	text-align:center;
 }
 
+h1 {
+	padding: 2px 0px;
+	color: #000080;
+	font-size: 1.6em;
+}
+
+h2 {
+	padding: 2px 4px;
+	color: #0000FF;
+	font-size: 1.4em;
+}
+
+h3 {
+	padding: 2px 8px;
+	color: #0080C0;
+	font-size: 1.2em;
+}
+
+h4 {
+	padding: 2px 12px;
+	color: #0080FF;
+}
+
 p{
 	text-indent: 2em;
+	padding:10px 0px;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li{
+	margin-left: 2em;
 }
