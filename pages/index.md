@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "薪酬制度汇编"
+title: "薪酬政策汇编"
 date: 2013-03-06 15:10
 comments: false
 sharing: true
 footer: false
 ---
 
-# 薪酬制度汇编
+# 薪酬政策汇编
 
 ## 综合性法律法规
 

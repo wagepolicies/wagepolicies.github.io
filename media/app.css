@@ -1,4 +1,85 @@
 
+/*app.css*/
+
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size: 14px;
+}
+
+html,body {
+	font-family:Arial,'Times New Roman',Helvetica,Arial,Vernada,Tahoma,STXihei,'Microsoft YaHei',SimSun,Heiti,sans-serif;
+	background-color: white;
+}
+
+body{
+	margin: 55px 20px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	text-transform: capitalize;
+	font-weight: bold;
+	margin: 2px 0px;
+}
+
+a {
+	display: inline-block;
+	padding: 0px 3px;
+}
+
+a:link {
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #800040;
+	text-decoration: none;
+}
+
+a:active {
+	color: green;
+	text-decoration: underline;
+}
+
+a:hover,a:focus {
+	color: red;
+	text-decoration: underline;
+	background-color: #B0C4DE;
+}
+
+p {
+	line-height: 1.3em;
+}
+
+#header{
+	height: 45px;
+	width: 100%;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 99;
+	opacity: 1;
+	background:blue;
+	color:white;
+}
+
+#header h1{
+	text-align:left;
+}
+
+#header h1 a{
+	font-size:2em;
+	color:white;
+}
+
+#header h1 a:active,
+#header h1 a:hover,
+#header h1 a:focus {
+	color:white;
+	text-decoration: none;
+}
+
 h1,h2{
 	text-align:center;
 }
