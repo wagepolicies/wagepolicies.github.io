@@ -1,0 +1,22 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+#dir
+target
+build
+.project
+.classpath
+.settings
+.gradle
+.*cache
+public
+_deploy
+
+compiled
+
+

@@ -1,0 +1,17 @@
+title : 薪酬政策汇编
+tagline: 
+author :
+  name : Korben Zhang
+  email : 25009922@qq.com
+  github : username
+  twitter : username
+  feedburner : feedname
+
+production_url : http://mp2.crecg.com/mps/wps
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  
