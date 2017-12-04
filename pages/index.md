@@ -7,6 +7,11 @@ sharing: true
 footer: false
 ---
 
+<div class='nav'>
+	<a class="" href="links/index.html">链接</a>	
+</div>
+
+
 # 薪酬政策汇编
 
 ## 综合性法律法规
@@ -146,7 +151,7 @@ footer: false
 * 1995 [劳动部、财政部关于印发《境外企业工资总量宏观调控和社会保险制度改革办法》的通知](wage_policies/1995_banfa_foreign_wages/index.html)  - 劳部发[1995]273号
 
 ## 绩效考核
-
+* 2016 [中央企业负责人经营业绩考核办法](wage_policies/2016_ling_kaohe/index.html)
 * 2009 [关于印发《关于进一步加强中央企业全员业绩考核工作的指导意见》的通知](wage_policies/2009_yijian_performance/index.html)  - 国资发综合[2009]300号
 
 ## 中央企业负责人
